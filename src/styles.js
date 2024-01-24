@@ -12,7 +12,7 @@ export const Container = styled.div`
 export const Content = styled.div`
     border-radius: 10px;
     background-color: #f1f1f2;
-    width: 25%;
+    width: 280px;
 `
 
 export const Row = styled.div`
