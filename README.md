@@ -2,7 +2,8 @@
 
 Este projeto é um desafio da [Digital Innovation One (DIO)](https://web.dio.me/track/formacao-react-developer) e foi desenvolvido utilizando React. Trata-se de uma aplicação da calculadora Windows , que oferece funcionalidades essenciais de uma calculadora tradicional.
 
-![image](https://github.com/marcelo-juncken/dio-desafio-calculator/assets/24771425/953ad6f8-a8c8-468d-b564-2c2c792e9edf)
+![image](https://github.com/marcelo-juncken/dio-desafio-calculator/assets/24771425/cc6213c5-48f9-43d5-8215-189972904bca)
+
 
 ## Índice
 - [Instalação](#instalação)
