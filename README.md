@@ -1,6 +1,6 @@
-# Calculadora para Windows
+# Calculadora do Windows
 
-Este projeto é um desafio da [Digital Innovation One (DIO)](https://web.dio.me/track/formacao-react-developer) e foi desenvolvido utilizando React. Trata-se de uma aplicação de calculadora com uma interface amigável, otimizada para Windows, que oferece funcionalidades essenciais de uma calculadora tradicional.
+Este projeto é um desafio da [Digital Innovation One (DIO)](https://web.dio.me/track/formacao-react-developer) e foi desenvolvido utilizando React. Trata-se de uma aplicação da calculadora Windows , que oferece funcionalidades essenciais de uma calculadora tradicional.
 
 ![image](https://github.com/marcelo-juncken/dio-desafio-calculator/assets/24771425/953ad6f8-a8c8-468d-b564-2c2c792e9edf)
 
@@ -39,7 +39,7 @@ Após executar o comando, a aplicação será aberta no navegador padrão na URL
 
 - **Operações Básicas:** Realize operações matemáticas básicas como adição, subtração, multiplicação e divisão.
 - **Operações Avançadas:** Inclui funcionalidades para elevar um número ao quadrado e calcular a raiz quadrada.
-- **Interface Intuitiva:** Interface de usuário simples e fácil de usar, projetada especialmente para Windows.
+- **Interface Intuitiva:** Interface de usuário simples e fácil de usar, com design similar ao da calculadora do Windows.
 
 ## Contribuição
 
