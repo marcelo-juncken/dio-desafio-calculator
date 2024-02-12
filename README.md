@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido utilizando React. Trata-se de uma aplicação da calculadora do Windows, que oferece funcionalidades essenciais de uma calculadora tradicional.
 
-Acesse o projeto através do seguinte link: [Calculadora Windows](https://marcelo-calc-plus.vercel.app/).
+Acesse o projeto através do seguinte link: [Calculadora Windows](https://marcelo-calc-plus.vercel.app/)
 
 
 ![image](https://github.com/marcelo-juncken/dio-desafio-calculator/assets/24771425/cc6213c5-48f9-43d5-8215-189972904bca)
